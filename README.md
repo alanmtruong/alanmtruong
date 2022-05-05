@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning how to make my own website! Check it out at https://alanmtruong.com.
 - 📫 How to reach me:
   - LinkedIn https://www.linkedin.com/in/alanmtruong/
+  - Facebook https://www.facebook.com/alan.truong.37604/
 
 
